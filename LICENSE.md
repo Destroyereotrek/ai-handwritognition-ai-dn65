@@ -1,4 +1,4 @@
-# 
+# Elite AI Handwriting Recognition modelos. Com visualização de dados e tomada de decisão automatizada — otimizado para máximo desempenho.
 
 
 
